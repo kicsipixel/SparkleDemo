@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SparkleDemo</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Thu, 22 Jun 2023 03:11:52 +0200</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kicsipixel/SparkleDemo/releases/download/production/SparkleDemo.dmg" length="29399040" type="application/octet-stream" sparkle:edSignature="dFrIhS8qOBO4A1N0Zt6acsGtxrzARkN3+atX+o+b7H+OKEs8g/yfY2iynuWhHBvz43cg7HPrfeMzu7Lkri0NCg=="/>
+        </item>
+    </channel>
+</rss>
